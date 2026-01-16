@@ -1,2 +1,36 @@
 notes/
 .cursor/
+# C编译产物
+*.o
+*.so
+*.a
+*.out
+*.exe
+
+# 临时文件和备份
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# macOS系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE和编辑器
+.vscode/
+.idea/
+*.code-workspace
+.vim/
+
+# 测试和调试文件
+*.dSYM/
+core
+core.*
+vgcore.*
+
+# 编译日志
+*.log
+*.d
