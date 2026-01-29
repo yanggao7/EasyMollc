@@ -1,1 +1,3 @@
-#include <stdio.h>
+#include <my_malloc.h>
+
+#define ALIGNMENT 8

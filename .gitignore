@@ -1,5 +1,11 @@
 notes/
 .cursor/
+test/
+record/
+upload_minimal.sh
+my_malloc/
+my_malloc_optimiz/
+deploy_my_malloc.sh
 # C编译产物
 *.o
 *.so
